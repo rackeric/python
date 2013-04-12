@@ -8,9 +8,8 @@
 #
 
 import pyrax 
-import time
 
-## VALUES TO CHANGE
+## USER VARIABLES ##
 username = ""
 API_key = ""
 cs_snap_uuid = ""
