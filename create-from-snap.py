@@ -6,7 +6,6 @@
 #
 # 20130411 - Eric Hernandez
 #
-
 import pyrax 
 
 ## USER VARIABLES ##
