@@ -1,7 +1,8 @@
 #!/usr/bin/python
 #
-# Creates a CS Server from a snapshot image
-# Creates a CBS volume and attaches to new server 
+# Creates a CS Server from a snapshot image.
+# Creates a CBS volume from a snapshot image
+#  and attaches new volume to new CS server. 
 #
 # 20130411 - Eric Hernandez
 #
